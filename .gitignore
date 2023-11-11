@@ -1,4 +1,6 @@
-./src/html/*
-./src/css/*
-./build/*
+src/html/*
+src/css/*
+build/*
+node_modules
+package-lock.json
 
