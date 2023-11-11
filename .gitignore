@@ -1,2 +1,4 @@
-./src/html
-./src/css
+./src/html/*
+./src/css/*
+./build/*
+
